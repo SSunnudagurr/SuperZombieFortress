@@ -2,7 +2,7 @@
 {
 	"Welcome"
 	{
-		"jp"		"{1}スーパーゾンビ要塞へようこそ。\n{2}/szf{3}を使用して取扱説明書を開くことができます。"
+		"jp"		"{1}スーパーゾンビフォトレスへようこそ。\n{2}/szf{3}を使用して取扱説明書を開くことができます。"
 	}
 	
 	"Grace_Start"
@@ -67,7 +67,7 @@
 	
 	"Weapon_Callout"
 	{
-		"jp"		"{1}{2} {3}ここに！"
+		"jp"		"{1}{2} {3}ここにある！"
 	}
 	
 	"Survivor_Last"
@@ -127,7 +127,7 @@
 	
 	"Tutorial_SurvivorStart1"
 	{
-		"jp"		"スーパーゾンビ要塞へようこそ！"
+		"jp"		"スーパーゾンビフォトレスへようこそ！"
 	}
 	
 	"Tutorial_SurvivorStart2"
@@ -162,12 +162,12 @@
 	
 	"Tutorial_SurvivorStart8"
 	{
-		"jp"		"ゲームと幸運をお楽しみください！"
+		"jp"		"ゲームと幸運をお楽しみ下さい！"
 	}
 	
 	"Tutorial_ZombieStart1"
 	{
-		"jp"		"スーパーゾンビ要塞へようこそ！"
+		"jp"		"スーパーゾンビフォトレスへようこそ！"
 	}
 	
 	"Tutorial_ZombieStart2"
@@ -416,7 +416,7 @@
 	
 	"Menu_MainTitle"
 	{
-		"jp"		"スーパーゾンビ要塞 - {1}.{2}"
+		"jp"		"スーパーゾンビフォトレス - {1}.{2}"
 	}
 	
 	"Menu_MainOverview"
