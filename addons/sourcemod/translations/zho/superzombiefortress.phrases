@@ -1,0 +1,607 @@
+"Phrases"
+{
+	"Welcome"
+	{
+		"zho"		"{1}歡迎來到超級感染者要塞。\n想打開指導菜單，使用{2}/szf{3}。"
+	}
+	
+	"Grace_Start"
+	{
+		"zho"		"{1}準備階段開始。倖存者可以改變兵種。"
+	}
+	
+	"Grace_End"
+	{
+		"zho"		"{1}準備階段完成。倖存者不能在更換兵種。"
+	}
+	
+	"Grace_InfectedBoost"
+	{
+		"zho"		"{1}感染者獲得額外生命值和其他增益來確保開局遊戲的平衡。"
+	}
+	
+	"Frenzy_Start"
+	{
+		"zho"		"{1}屍潮來襲：他們重生更快並變得更強！"
+	}
+	
+	"Frenzy_End"
+	{
+		"zho"		"{1}感染者安定了..."
+	}
+	
+	"Tank_Chosen"
+	{
+		"zho"		"{1} {2}被選為成為坦克TANK!"
+	}
+	
+	"Tank_Called"
+	{
+		"zho"		"{1}呼叫坦克。"
+	}
+	
+	"Tank_Spawn"
+	{
+		"zho"		"{1}坦克來襲！！！"
+	}
+	
+	"Tank_Died"
+	{
+		"zho"		"坦克 '{1}' 死亡\n最高傷害：{2} ({3})"
+	}
+	
+	"Tank_Multi_Died"
+	{
+		"zho"		"{1} 坦克們死亡\n最高傷害：{2} ({3})"
+	}
+	
+	"Carry_Pickup"
+	{
+		"zho"		"呼叫 '醫生！' 来丢弃你的物品！\n你在拿著此物品的時候可以攻擊。"
+	}
+	
+	"Weapon_Pickup"
+	{
+		"zho"		"我撿起了一個 {1}{2}{3} ！"
+	}
+	
+	"Weapon_Callout"
+	{
+		"zho"		"{1}{2} {3}在這裡！"
+	}
+	
+	"Survivor_Last"
+	{
+		"zho"		"{1}{2} 是最後的倖存者！"
+	}
+	
+	"Infected_Zombify"
+	{
+		"zho"		"{1}你死亡並變成了感染者..."
+	}
+	
+	"Infected_SelectedRespawn"
+	{
+		"zho"		"{1}你被選擇變成一個特殊感染者！{2}呼叫 '醫生！' 來重生為特感或者死亡後變成特感。"
+	}
+	
+	"Infected_UsedQuickRespawn"
+	{
+		"zho"		"(團隊) {1}{2} : 我使用了我的 {3}快速重生為特感{4}！"
+	}
+	
+	"Infected_AllInCooldown"
+	{
+		"zho"		"{1}所有的特殊感染者似乎都在冷卻..."
+	}
+	
+	"Infected_ForceStart"
+	{
+		"zho"		"{1}你被強制加入感染者隊伍來阻止你嘗試跳過你的感染者回合。"
+	}
+	
+	"Infected_CallMedic"
+	{
+		"zho"		"呼叫 '醫生！' 來重生成為特感！"
+	}
+	
+	"Infected_RageReady"
+	{
+		"zho"		"憤怒已準備好！"
+	}
+	
+	"Infected_RageReadyInSec"
+	{
+		"zho"		"憤怒在 {1} 秒内准备好！"
+	}
+	
+	"Infected_CantUseRage"
+	{
+		"zho"		"無法激活憤怒！"
+	}
+	
+	"Infected_RageUsed"
+	{
+		"zho"		"憤怒激活！"
+	}
+	
+	"Tutorial_SurvivorStart1"
+	{
+		"zho"		"歡迎來到超級感染者要塞！"
+	}
+	
+	"Tutorial_SurvivorStart2"
+	{
+		"zho"		"你當前為倖存者陣營。"
+	}
+	
+	"Tutorial_SurvivorStart3"
+	{
+		"zho"		"作為倖存者，你的任務是完成地圖目標。"
+	}
+	
+	"Tutorial_SurvivorStart4"
+	{
+		"zho"		"你可能注意到你没有任何武器。"
+	}
+	
+	"Tutorial_SurvivorStart5"
+	{
+		
+		"zho"		"你可以呼叫醫生或者攻擊該武器來撿起來。"
+	}
+	
+	"Tutorial_SurvivorStart6"
+	{
+		"zho"		"有普通的感染者還有特殊感染者，小心他們！"
+	}
+	
+	"Tutorial_SurvivorStart7"
+	{
+		"zho"		"你可以在聊天輸入 '/szf' 來獲得更多信息。"
+	}
+	
+	"Tutorial_SurvivorStart8"
+	{
+		"zho"		"玩的開心，祝你好運！"
+	}
+	
+	"Tutorial_ZombieStart1"
+	{
+		"zho"		"歡迎來到超級感染者要塞！"
+	}
+	
+	"Tutorial_ZombieStart2"
+	{
+		"zho"		"你現在在感染者陣營。"
+	}
+	
+	"Tutorial_ZombieStart3"
+	{
+		"zho"		"作為感染者，你的任務是擊殺倖存者。"
+	}
+	
+	"Tutorial_ZombieStart4"
+	{
+		"zho"		"你和你的隊友在之後有機會成為特殊感染者。"
+	}
+	
+	"Tutorial_ZombieStart5"
+	{
+		"zho"		"另外，坦克在之後也有可能出現。"
+	}
+	
+	"Tutorial_ZombieStart6"
+	{
+		"zho"		"你可以在聊天輸入 '/szf' 來獲得更多信息。"
+	}
+	
+	"Tutorial_ZombieStart7"
+	{
+		"zho"		"玩的開心，抓住倖存者！"
+	}
+	
+	"Tutorial_PickupCommon1"
+	{
+		"zho"		"你撿起了一件武器。"
+	}
+	
+	"Tutorial_PickupCommon2"
+	{
+		"zho"		"尋找武器對於保證生存是至關重要的。"
+	}
+	
+	"Tutorial_PickupRare1"
+	{
+		"zho"		"你撿起了一個強力的武器。"
+	}
+	
+	"Tutorial_PickupRare2"
+	{
+		"zho"		"一些武器會低概率出現，就像這個。"
+	}
+	
+	"Tutorial_Callout1"
+	{
+		"zho"		"說出特定的武器可以讓隊友去撿起來。"
+	}
+	
+	"Tutorial_TankSpawn1"
+	{
+		"zho"		"不要讓坦克靠近你，它的攻擊是致命的。"
+	}
+	
+	"Tutorial_TankSpawn2"
+	{
+		"zho"		"逃跑，射擊坦克，可以使其减速，擊甚至殺死它。"
+	}
+	
+	"Command_InfectedUsage"
+	{
+		"zho"		"{1}用法: sm_infected [目標] [感染者]"
+	}
+	
+	"Command_InfectedNoInfected"
+	{
+		"zho"		"{1}無法找到感染者 \"{2}\""
+	}
+	
+	"Command_InfectedNoTarget"
+	{
+		"zho"		"{1}無法找到任何人來設為下一個感染者。"
+	}
+	
+	"Command_InfectedNoZombie"
+	{
+		"zho"		"{1}無法找到任何感染者來設為下一感染者。"
+	}
+	
+	"Command_InfectedSet"
+	{
+		"zho"		"{1}設置 {2} 感染者變成下一個感染者 \"{3}\""
+	}
+	
+	"Command_MusicEnable"
+	{
+		"zho"		"{1}音樂已開啟。"
+	}
+	
+	"Command_MusicDisable"
+	{
+		"zho"		"{1}音樂已關閉。"
+	}
+	
+	"JoinTeam_CantSwitchGrace"
+	{
+		"zho"		"{1}你不能在準備階段切換到對面隊伍。"
+	}
+	
+	"JoinTeam_WillJoinInfectedGrace"
+	{
+		"zho"		"{1}你在準備階段結束後會加入感染者陣營。"
+	}
+	
+	"JoinTeam_CancelGraceEnd"
+	{
+		"zho"		"{1}你不會在準備階段結束之後加入感染者陣營。"
+	}
+	
+	"JoinTeam_CantJoinSurvivorGrace"
+	{
+		"zho"		"{1}現在不能加入倖存者陣營。你在準備階段結束後會加入感染者陣營。"
+	}
+	
+	"JoinClass_ValidZombies"
+	{
+		"zho"		"{1}無效感染者: {2}."
+	}
+	
+	"JoinClass_ValidSurvivors"
+	{
+		"zho"		"{1}無效感染者: {2}."
+	}
+	
+	"JoinClass_SurvivorsCantChange"
+	{
+		"zho"		"{1}倖存者不能在回合中切換兵種"
+	}
+	
+	"SpecialInfected_Boomer"
+	{
+		"zho"		"{green}你變成了BOOMER:\n{orange}- 呼叫'醫生！'來自爆並讓周圍敵人被尿包圍！\n- 你也會在死後爆炸，讓擊殺者和助攻者被尿包圍。"
+	}
+	
+	"SpecialInfected_Charger"
+	{
+		"zho"		"{green}你是CHARGER:\n{orange}- 呼叫'醫生！'來衝鋒！{yellow}(16秒冷卻)"
+	}
+	
+	"SpecialInfected_Screamer"
+	{
+		"zho"		"你是SCREAMER:\n{orange}- 呼叫'醫生！'来强化隊友感染者！{yellow}(21秒冷卻){orange}\n- 靠近你的感染者會變強。"
+	}
+	
+	"SpecialInfected_Stalker"
+	{
+		"zho"		"{green}你是STALKER:\n{orange}- 假如你没靠近倖存者，你會隱身並獲得超級加速！\n- 你的背刺傷害更高。"
+	}
+	
+	"SpecialInfected_Hunter"
+	{
+		"zho"		"{green}你是HUNTER:\n{orange}- 呼叫'醫生！'來進行飛撲感染者！{yellow}(未命中3秒冷卻 & 命中21秒冷卻)"
+	}
+	
+	"SpecialInfected_Smoker"
+	{
+		"zho"		"{green}你是SMOKER:\N{orange}- 右鍵發射一道光束拉扯敵人靠近你！{yellow}(没有冷卻)"
+	}
+	
+	"SpecialInfected_Spitter"
+	{
+		"zho"		"{green}你是SPITTER:\N{orange}- 呼叫'醫生！'來投擲你的毒氣到倖存者中造成傷害！{yellow}(16秒冷卻)"
+	}
+	
+	"SpecialInfected_Jockey"
+	{
+		"zho"		"{green}你是JOCKEY:\n{orange}- 呼叫'醫生！'來飛撲感染者並控制其移動！{yellow}(6秒冷卻)"
+	}
+
+	"Melee_Atomizer"
+	{
+		"zho"		"{orange}原子能球棒{green}擊退敵人。{red}三段跳和空中迷你爆擊被禁用。"
+	}
+	
+	"Melee_CandyCane"
+	{
+		"zho"		"{orange}糖果手杖{red}使你受到額外10%%的傷害。"
+	}
+	
+	"Melee_PainTrain"
+	{
+		"zho"		"{orange}釘棍{red}使你受到額外10%%的傷害。"
+	}
+	
+	"Melee_HalfZatozho"
+	{
+		"zho"		"{orange}座頭市之刀{red}部署時消耗你的最大生命值。"
+	}
+	
+	"Melee_MarketGardener"
+	{
+		"zho"		"{orange}市場花園鐵鏟{green}讓你火箭跳高度增加25%%。"
+	}
+	
+	"Melee_KillingGlovesofBoxing"
+	{
+		"zho"		"{orange}殺戮拳擊手套{red}擊殺後獲得5秒的迷你爆擊。"
+	}
+	
+	"Melee_FistsofSteel"
+	{
+		"zho"		"{orange}鋼鐵全套{green}部署時獲得10%%的近戰抗性。"
+	}
+	
+	"Melee_EurekaEffect"
+	{
+		"zho"		"{orange}傳送扳手{green}會逐漸恢復金屬。{red}傳送已被禁用。"
+	}
+	
+	"Melee_Ubersaw"
+	{
+		"zho"		"{orange}過載充能锯{red}擊中後獲得10%%的uber。"
+	}
+
+	"Melee_VitaSaw"
+	{
+		"zho"		"{orange}維塔鋸{green}增加你的uber充能效率15%%。"
+	}
+	
+	"Melee_Amputator"
+	{
+		"zho"		"{orange}器官切割器{red}嘲諷時不能群體治療。"
+	}
+	
+	"Melee_TribalmansShiv"
+	{
+		"zho"		"{orange}部落者刮刀{green}的傷害减少20%%。"
+	}
+	
+	"PDA_DeadRinger"
+	{
+		"zho"		"{orange}假死之鈴{red}沒有增加的隱身時間。"
+	}
+	"PDA_CloakAndDagger"
+	{
+		"zho"		"{orange}隱形刺客{red}被禁用。"
+	}
+	
+	"Menu_MainTitle"
+	{
+		"zho"		"超級感染者要塞 - {1}.{2}"
+	}
+	
+	"Menu_MainOverview"
+	{
+		"zho"		"概述"
+	}
+	
+	"Menu_MainTeamSurvivor"
+	{
+		"zho"		"陣營: 倖存者"
+	}
+	
+	"Menu_MainTeamZombie"
+	{
+		"zho"		"陣營: 感染者"
+	}
+	
+	"Menu_MainClassesSurvivor"
+	{
+		"zho"		"兵種: 倖存者"
+	}
+	
+	"Menu_MainClassesZombie"
+	{
+		"zho"		"兵種: 感染者"
+	}
+	
+	"Menu_MainClassesInfected"
+	{
+		"zho"		"兵種: 感染者(特殊)"
+	}
+	
+	"Menu_MainBack"
+	{
+		"zho"		"返回"
+	}
+	
+	"Menu_Overview"
+	{
+		"zho"		"倖存者必須在無盡殭屍潮活下來。\n倖存者死亡後，加入感染者陣營變成感染者。\n感染者要合作擊敗倖存者。\n倖存者有士氣Morale和武器補給，感染者有權限變成特感。"
+	}
+	
+	"Menu_TeamSurvivors"
+	{
+		"zho"		"倖存者有恢復能力並且有基於士氣Morale的傷害加成。\n士氣Morale在完成目標點和擊殺時增加，但隨時間和負面事件而減少。\n倖存者一開始只有近戰武器，要撿起武器(使用呼叫'醫生！', '鼠標左鍵'或者'鼠标右键')，武器散步在地圖中。"
+	}
+	
+	"Menu_TeamZombie"
+	{
+		"zho"		"感染者集中時獲得生命加成或使用特感的特殊能力。\n憤怒可以在呼叫'醫生'激活，然後進入冷卻。\n你可能會獲得重生為特感的選擇，使用呼叫'醫生'來變成特感。"
+	}
+	
+	"Menu_ClassesSurvivorsScout"
+	{
+		"zho"		"有額外25生命值。\n擊殺後獲得2主武器彈藥，可以超過最大值。"
+	}
+	
+	"Menu_ClassesSurvivorsSoldier"
+	{
+		"zho"		"擊殺時獲得1主武器彈藥，可以超過最大值。"
+	}
+	
+	"Menu_ClassesSurvivorsPyro"
+	{
+		"zho"		"燃燒殭屍移動更快。\n火焰噴射器彈藥限制在100."
+	}
+	
+	"Menu_ClassesSurvivorsDemoman"
+	{
+		"zho"		"擊殺時獲得1主武器彈藥，可以超過最大值。"
+	}
+	
+	"Menu_ClassesSurvivorsHeavy"
+	{
+		"zho"		"轉輪機槍彈藥限制為100."
+	}
+	
+	"Menu_ClassesSurvivorsEngineer"
+	{
+		"zho"		"以PDA開局。\n只可以建造步哨和補給器，不能升級。\n步哨槍彈藥有限制，隨時間消耗並且不可以補充。\n補給器充當牆的角色，有更高的生命值，但是不能補充彈藥。"
+	}
+	
+	"Menu_ClassesSurvivorsMedic"
+	{
+		"zho"		"醫療槍有治療速率的負面效果。"
+	}
+	
+	"Menu_ClassesSurvivorsSniper"
+	{
+		"zho"		"SMG不用重新裝填。\n尿瓶使感染者减速。\n有25額外生命值。\n擊殺時獲得2主武器彈藥，可以超過最大值。"
+	}
+	
+	"Menu_ClassesSurvivorsSpy"
+	{
+		"zho"		"以隱身手錶和位置工具開局。\n擊殺時獲得2主武器彈藥，可以超過最大值。"
+	}
+	
+	"Menu_ClassesInfectedScout"
+	{
+		"zho"		"獲得可以讓倖存者减速的睡魔。\n可以使用飲料。"
+	}
+	
+	"Menu_ClassesInfectedSoldier"
+	{
+		"zho"		"在感染者屍潮時獲得更少的移動速度和生命恢復。\n可以使用旗子。"
+	}
+	
+	"Menu_ClassesInfectedPyro"
+	{
+		"zho"		"使用熔岩戰斧來點燃倖存者。\n後續燃燒傷害被減少。\n在感染者屍潮時獲得更少的移動速度和生命恢復。"
+	}
+	
+	"Menu_ClassesInfectedDemoman"
+	{
+		"zho"		"獲得蘇格蘭長劍，遠距離造成傷害。\n在感染者屍潮時獲得更少的移動速度和生命恢復。"
+	}
+	
+	"Menu_ClassesInfectedHeavy"
+	{
+		"zho"		"在感染者屍潮時獲得更少的移動速度和生命恢復。\n可以使用食物，也可以傷害倖存者。"
+	}
+	
+	"Menu_ClassesInfectedEngineer"
+	{
+		"zho"		"槍砲工之臂第三下的爆擊使倖存者眩暈，但造成更少的傷害。\n只可以建造迷你步哨和補給器，不能升級。\n步哨彈藥限制，隨時間消失，不能補充。"
+	}
+	
+	"Menu_ClassesInfectedMedic"
+	{
+		"zho"		"使用器官切割器嘲諷治療周圍的感染者。\n在感染者屍潮時獲得更少的移動速度和生命恢復。"
+	}
+	
+	"Menu_ClassesInfectedSniper"
+	{
+		"zho"		"可以使用灌木叢在迷你爆擊情況下造成爆擊。\n可以使用背包和鱷魚盾。"
+	}
+	
+	"Menu_ClassesInfectedSpy"
+	{
+		"zho"		"n可以使用背包和鱷魚盾'驚嚇'，減速敵人並且無法使用武器一段時間。\n倖存者在被背刺時獲得小型抗性。"
+	}
+	
+	"Menu_ClassesInfectedSpecialTank"
+	{
+		"zho"		"作為最強大最致命的感染者，他可以突擊擊倒整支敌方隊伍。\n- 坦克生命很多，但是最後會逐漸丟失生命值。\n- 坦克有完全擊退抗性。\n- 坦克一開始很快，但受到傷害之後變慢。\n- 坦克會在特定條件滿足後生成。"
+	}
+	
+	"Menu_ClassesInfectedSpecialBoomer"
+	{
+		"zho"		"他噁心，脏，很樂意把這些分享給倖存者。\n- 技能是自爆，讓敵人被尿包圍。\n- 死亡也會爆炸，但是威力和範圍會減少。"
+	}
+	
+	"Menu_ClassesInfectedSpecialCharger"
+	{
+		"zho"		"內在的憤怒讓它不顧一切的卡其脫離帶，直到撞倒人。\n- 使用憤怒，Charger可以沖鋒並且鎖定倖存者的移動，推動他穿越區域。"
+	}
+	
+	"Menu_ClassesInfectedSpecialScreamer"
+	{
+		"zho"		"Screamer是感染者隊長，可以讓感染者们全副武裝攻擊倖存者。\n- 使用憤怒，Screamer會用一聲刺破耳膜的尖叫聲集結感染者，增加感染者的總體能力。\n- Screamer靠近感染者可以強化他們，增加强度。"
+	}
+	
+	"Menu_ClassesInfectedSpecialStalker"
+	{
+		"zho"		"Stalker難以捉摸，可以在眨眼間靠近倖存者。\n- Stalker在不靠近倖存者的情況下一直是隱形的。\n- 背刺造成50傷害，比普通背刺强2.5倍。"
+	}
+	
+	"Menu_ClassesInfectedSpecialHunter"
+	{
+		"zho"		"Hunter很快，輕易地越過大片障礙追殺倖存者。\n- 使用憤怒可以進行飛撲，撲到敵人。\n- 抓住敌人後，你會'卡'在敵人身體中，讓倖存者在獨自作戰的時候變得十分危險。"
+	}
+	
+	"Menu_ClassesInfectedSpecialSmoker"
+	{
+		"zho"		"Smoker使用它的有毒光束，傷害倖存者並拉扯過來。\n- 倖存者生命越低，拉扯的力量越强。\n- 不能使用憤怒。"
+	}
+	
+	"Menu_ClassesInfectedSpecialSpitter"
+	{
+		"zho"		"Spitter是長脖子的，使用有毒氣體攻擊的特感。\n- 使用憤怒會讓spitter停下，吐出一地造成傷害的氣體到地上。\n- 死亡後也會釋放毒氣。\n- 在小房間顯得十分危險。"
+	}
+	
+	"Menu_ClassesInfectedSpecialJockey"
+	{
+		"zho"		"Jockey到處爬，尋找倖存者騎上去。\n- 使用憤怒可以讓它飛撲，抓住倖存者的頭，但與Hunter不同。\n- 可以控制倖存者的頭，控制行動。\n不能攻擊，但是在控制倖存者的時候可以逐漸造成少量傷害。"
+	}
+}
